@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ОстаткиТоваров" id="71c526b6-5116-4383-811b-e5499c2486f5" configVersion="683f6420843da14b8d738e1d9d9c3de700000000">
+			<Metadata name="AccumulationRegister.ОстаткиТоваров.Dimension.Номенклатура" id="0a3fadfe-b953-4787-86b9-75ce524dd124"/>
+			<Metadata name="AccumulationRegister.ОстаткиТоваров.Resource.Сумма" id="3c912320-14e7-45b8-a162-47220edd629c"/>
+			<Metadata name="AccumulationRegister.ОстаткиТоваров.Resource.Количество" id="cc2b35dd-4c59-4879-a5fd-0b260b82e0ec"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура" id="b3088ab4-af76-45c4-98a9-c19a5c008532" configVersion="c123e900de46bf4caf76bcee45ada2ab00000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.ЕдиницаИзмерения" id="16e70660-c145-4b0f-a95f-9a598768bd17"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.ТипНоменклатуры" id="53dd9487-0049-4260-b2b9-1277a6f4a691"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Цена" id="8847eadd-2b5f-46f1-af16-28eeee3bcb12"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Артикул" id="db2d0bf8-e3ae-47c5-8fe1-384f22850a6d"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка" id="2028f1ca-7516-4e04-a6f0-84528537e78c" configVersion="abcfd8ecb50f3e48a041bbba16d53b0a00000000"/>
+		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка.Form" id="2028f1ca-7516-4e04-a6f0-84528537e78c.0" configVersion="ca0c0ce5493e654495982d36c8199fae00000000"/>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="b3088ab4-af76-45c4-98a9-c19a5c008532.0" configVersion="97364adbe56bde4eab6e15bcd30cc10200000000"/>
+		<Metadata name="Configuration.Конфигурация" id="033f92d5-2388-47de-9d21-0f61ad85fea3" configVersion="ea82f8927a76de4e9f054035ab08b5ee00000000"/>
+		<Metadata name="Document.ПоступлениеТоваров" id="afee2604-5769-4c34-ab5f-8676106dfad2" configVersion="c1456dadd7dd32489dd0f4a344ebdb1100000000">
+			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Цена" id="30081779-d971-4061-8e7e-e49653a6b166"/>
+			<Metadata name="Document.ПоступлениеТоваров.Attribute.Комментарий" id="3538563e-8a30-478f-a7bb-ad74d4ad464c"/>
+			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Количество" id="3624e8f7-ebc9-4e05-b3b2-2408a99d20fb"/>
+			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Сумма" id="4bab7f60-63c9-4cca-904b-f1f6688b4fa7"/>
+			<Metadata name="Document.ПоступлениеТоваров.Attribute.Поставщик" id="af45dfe3-a643-4881-9792-f275a89667ba"/>
+			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Номенклатура" id="dfe85720-9ca1-459e-a7a3-08c3b07f2ea0"/>
+			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары" id="eb3ab683-42c8-4672-8733-20c0e6e1294a"/>
+		</Metadata>
+		<Metadata name="Document.ПоступлениеТоваров.ObjectModule" id="afee2604-5769-4c34-ab5f-8676106dfad2.0" configVersion="cb43827f19e5c64ea15b7bbc426d01b800000000"/>
+		<Metadata name="Enum.ТипыНоменклатуры" id="cd7bb4b5-dc72-4644-9aa2-a5cb4f334382" configVersion="a51b9eaf05a85449ae05169462b0e6ad00000000">
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Материал" id="21110973-6c9a-4688-9e43-71005cebadf5"/>
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Товар" id="676e34d6-cacf-468d-9b17-432ad296d9a9"/>
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Услуга" id="bdc2d7e6-4738-4e84-a99a-4f5d0a720f90"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="8e4070b4-65c2-4149-9fba-ba45efc225ba" configVersion="f866f2bc5b9ead469b30eb0e219d4ef500000000"/>
+		<Metadata name="Report.ОстаткиТоваров" id="f60f790e-8e1a-487b-8af8-baa3231310cf" configVersion="cf996995e9bf7d4f8647209cec27cb8800000000"/>
+		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных" id="8c106de2-ac7f-4437-afb2-7a5a8fa1ef00" configVersion="5e76a9b54d7f0d43affee656eab422fb00000000"/>
+		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="8c106de2-ac7f-4437-afb2-7a5a8fa1ef00.0" configVersion="d41d69943d396746ba5855f2ef4c79df00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
