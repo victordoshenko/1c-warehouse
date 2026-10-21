@@ -45,6 +45,11 @@
 
 (вставьте 3–4 скриншота: форма справочника, документ, движения регистра, отчёт)
 <img width="597" height="340" alt="image" src="https://github.com/user-attachments/assets/3667f351-6b6f-484b-b7d7-8854ffd774de" />
+<img width="788" height="511" alt="image" src="https://github.com/user-attachments/assets/82bcc082-bbbf-4d6e-a8d3-9ff677d52473" />
+<img width="573" height="288" alt="image" src="https://github.com/user-attachments/assets/e7643a22-98fc-424a-afe6-3fef835d75e0" />
+<img width="788" height="511" alt="image" src="https://github.com/user-attachments/assets/2039721e-df02-49ed-a7cd-de9c9c635d15" />
+<img width="1651" height="494" alt="image" src="https://github.com/user-attachments/assets/fcabac40-58ae-4fb5-aada-0f490ae6fbc4" />
+<img width="557" height="373" alt="image" src="https://github.com/user-attachments/assets/88b76a37-a66a-4cd4-9165-2c30412b75dc" />
 
 \## Как развернуть
 
