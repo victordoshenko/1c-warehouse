@@ -42,8 +42,6 @@
 ```
 
 \## Скриншоты
-
-(вставьте 3–4 скриншота: форма справочника, документ, движения регистра, отчёт)
 <img width="597" height="340" alt="image" src="https://github.com/user-attachments/assets/3667f351-6b6f-484b-b7d7-8854ffd774de" />
 <img width="788" height="511" alt="image" src="https://github.com/user-attachments/assets/82bcc082-bbbf-4d6e-a8d3-9ff677d52473" />
 <img width="573" height="288" alt="image" src="https://github.com/user-attachments/assets/e7643a22-98fc-424a-afe6-3fef835d75e0" />
