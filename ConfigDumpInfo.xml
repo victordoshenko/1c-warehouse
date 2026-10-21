@@ -33,7 +33,7 @@
 		</Metadata>
 		<Metadata name="Language.Русский" id="8e4070b4-65c2-4149-9fba-ba45efc225ba" configVersion="f866f2bc5b9ead469b30eb0e219d4ef500000000"/>
 		<Metadata name="Report.ОстаткиТоваров" id="f60f790e-8e1a-487b-8af8-baa3231310cf" configVersion="cf996995e9bf7d4f8647209cec27cb8800000000"/>
-		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных" id="8c106de2-ac7f-4437-afb2-7a5a8fa1ef00" configVersion="5e76a9b54d7f0d43affee656eab422fb00000000"/>
-		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="8c106de2-ac7f-4437-afb2-7a5a8fa1ef00.0" configVersion="d41d69943d396746ba5855f2ef4c79df00000000"/>
+		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных" id="8c106de2-ac7f-4437-afb2-7a5a8fa1ef00" configVersion="d0820048386a5e4d915a259e3d10f73000000000"/>
+		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="8c106de2-ac7f-4437-afb2-7a5a8fa1ef00.0" configVersion="53c9863dd1b4f04a87ce0d61355dbf5900000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

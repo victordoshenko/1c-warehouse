@@ -9,10 +9,6 @@
 		<field xsi:type="DataSetFieldField">
 			<dataPath>СуммаОстаток</dataPath>
 			<field>СуммаОстаток</field>
-			<role>
-				<dcscom:dimension>true</dcscom:dimension>
-				<dcscom:parentDimension>Номенклатура</dcscom:parentDimension>
-			</role>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Номенклатура</dataPath>
@@ -24,10 +20,6 @@
 		<field xsi:type="DataSetFieldField">
 			<dataPath>КоличествоОстаток</dataPath>
 			<field>КоличествоОстаток</field>
-			<role>
-				<dcscom:dimension>true</dcscom:dimension>
-				<dcscom:parentDimension>Номенклатура</dcscom:parentDimension>
-			</role>
 		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
@@ -35,7 +27,7 @@
     ОстаткиТоваровОстатки.КоличествоОстаток КАК КоличествоОстаток,
     ОстаткиТоваровОстатки.СуммаОстаток КАК СуммаОстаток
 ИЗ
-    РегистрНакопления.ОстаткиТоваров.Остатки КАК ОстаткиТоваровОстатки</query>
+    РегистрНакопления.ОстаткиТоваров.Остатки(&amp;Период, ) КАК ОстаткиТоваровОстатки</query>
 	</dataSet>
 	<totalField>
 		<dataPath>КоличествоОстаток</dataPath>
@@ -50,7 +42,7 @@
 		<title xsi:type="v8:LocalStringType">
 			<v8:item>
 				<v8:lang>ru</v8:lang>
-				<v8:content>Период</v8:content>
+				<v8:content>Остатки на дату</v8:content>
 			</v8:item>
 		</title>
 		<valueType>
@@ -61,6 +53,7 @@
 		</valueType>
 		<value xsi:type="xs:dateTime">0001-01-01T00:00:00</value>
 		<useRestriction>false</useRestriction>
+		<use>Always</use>
 	</parameter>
 	<settingsVariant>
 		<dcsset:name>Основной</dcsset:name>
@@ -78,9 +71,8 @@
 				<dcscor:item xsi:type="dcsset:SettingsParameterValue">
 					<dcscor:use>false</dcscor:use>
 					<dcscor:parameter>Период</dcscor:parameter>
-					<dcscor:value xsi:type="v8:StandardBeginningDate">
-						<v8:variant xsi:type="v8:StandardBeginningDateVariant">BeginningOfNextMonth</v8:variant>
-					</dcscor:value>
+					<dcscor:value xsi:type="xs:dateTime">0001-01-01T00:00:00</dcscor:value>
+					<dcsset:userSettingID>08e6d4b9-69f8-41d5-bde0-783cd4e24275</dcsset:userSettingID>
 				</dcscor:item>
 			</dcsset:dataParameters>
 			<dcsset:item xsi:type="dcsset:StructureItemGroup">
