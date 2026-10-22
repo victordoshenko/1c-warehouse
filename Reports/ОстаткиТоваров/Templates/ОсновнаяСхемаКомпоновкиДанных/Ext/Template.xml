@@ -29,6 +29,16 @@
 ИЗ
     РегистрНакопления.ОстаткиТоваров.Остатки(&amp;Период, ) КАК ОстаткиТоваровОстатки</query>
 	</dataSet>
+	<calculatedField>
+		<dataPath>СредняяЦена</dataPath>
+		<expression>ВЫБОР КОГДА КоличествоОстаток = 0 ТОГДА 0 ИНАЧЕ СуммаОстаток / КоличествоОстаток КОНЕЦ</expression>
+		<title xsi:type="v8:LocalStringType">
+			<v8:item>
+				<v8:lang>ru</v8:lang>
+				<v8:content>Средняя цена</v8:content>
+			</v8:item>
+		</title>
+	</calculatedField>
 	<totalField>
 		<dataPath>КоличествоОстаток</dataPath>
 		<expression>Сумма(КоличествоОстаток)</expression>
@@ -36,6 +46,10 @@
 	<totalField>
 		<dataPath>СуммаОстаток</dataPath>
 		<expression>Сумма(СуммаОстаток)</expression>
+	</totalField>
+	<totalField>
+		<dataPath>СредняяЦена</dataPath>
+		<expression>Сумма(СредняяЦена)</expression>
 	</totalField>
 	<parameter>
 		<name>Период</name>
@@ -65,6 +79,9 @@
 				</dcsset:item>
 				<dcsset:item xsi:type="dcsset:SelectedItemField">
 					<dcsset:field>СуммаОстаток</dcsset:field>
+				</dcsset:item>
+				<dcsset:item xsi:type="dcsset:SelectedItemField">
+					<dcsset:field>СредняяЦена</dcsset:field>
 				</dcsset:item>
 			</dcsset:selection>
 			<dcsset:dataParameters>
