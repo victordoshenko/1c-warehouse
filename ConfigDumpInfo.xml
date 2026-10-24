@@ -15,7 +15,7 @@
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка" id="2028f1ca-7516-4e04-a6f0-84528537e78c" configVersion="abcfd8ecb50f3e48a041bbba16d53b0a00000000"/>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка.Form" id="2028f1ca-7516-4e04-a6f0-84528537e78c.0" configVersion="ca0c0ce5493e654495982d36c8199fae00000000"/>
 		<Metadata name="Catalog.Номенклатура.ObjectModule" id="b3088ab4-af76-45c4-98a9-c19a5c008532.0" configVersion="97364adbe56bde4eab6e15bcd30cc10200000000"/>
-		<Metadata name="Configuration.Конфигурация" id="033f92d5-2388-47de-9d21-0f61ad85fea3" configVersion="ea82f8927a76de4e9f054035ab08b5ee00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="033f92d5-2388-47de-9d21-0f61ad85fea3" configVersion="6a8f29c205b75b48b31034978cd1ddb300000000"/>
 		<Metadata name="Document.ПоступлениеТоваров" id="afee2604-5769-4c34-ab5f-8676106dfad2" configVersion="c1456dadd7dd32489dd0f4a344ebdb1100000000">
 			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Цена" id="30081779-d971-4061-8e7e-e49653a6b166"/>
 			<Metadata name="Document.ПоступлениеТоваров.Attribute.Комментарий" id="3538563e-8a30-478f-a7bb-ad74d4ad464c"/>
@@ -33,7 +33,7 @@
 		</Metadata>
 		<Metadata name="Language.Русский" id="8e4070b4-65c2-4149-9fba-ba45efc225ba" configVersion="f866f2bc5b9ead469b30eb0e219d4ef500000000"/>
 		<Metadata name="Report.ОстаткиТоваров" id="f60f790e-8e1a-487b-8af8-baa3231310cf" configVersion="cf996995e9bf7d4f8647209cec27cb8800000000"/>
-		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных" id="8c106de2-ac7f-4437-afb2-7a5a8fa1ef00" configVersion="1ee81978c5672c4f9ab8c5accb97d7ee00000000"/>
-		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="8c106de2-ac7f-4437-afb2-7a5a8fa1ef00.0" configVersion="07b8f7e9df7d814ca3a58492a811d4d100000000"/>
+		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных" id="8c106de2-ac7f-4437-afb2-7a5a8fa1ef00" configVersion="3b115bfa2f6f694998824bdae7b9ad5f00000000"/>
+		<Metadata name="Report.ОстаткиТоваров.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="8c106de2-ac7f-4437-afb2-7a5a8fa1ef00.0" configVersion="43d62880ad3a16448d0f7a8ce96016fa00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

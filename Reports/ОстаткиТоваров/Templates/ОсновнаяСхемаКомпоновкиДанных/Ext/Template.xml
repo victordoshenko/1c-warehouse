@@ -56,7 +56,7 @@
 		<title xsi:type="v8:LocalStringType">
 			<v8:item>
 				<v8:lang>ru</v8:lang>
-				<v8:content>Остатки на дату</v8:content>
+				<v8:content>Остатки на выбранную дату</v8:content>
 			</v8:item>
 		</title>
 		<valueType>
