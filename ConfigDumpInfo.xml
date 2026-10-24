@@ -15,7 +15,10 @@
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка" id="2028f1ca-7516-4e04-a6f0-84528537e78c" configVersion="abcfd8ecb50f3e48a041bbba16d53b0a00000000"/>
 		<Metadata name="Catalog.Номенклатура.Form.ФормаСписка.Form" id="2028f1ca-7516-4e04-a6f0-84528537e78c.0" configVersion="ca0c0ce5493e654495982d36c8199fae00000000"/>
 		<Metadata name="Catalog.Номенклатура.ObjectModule" id="b3088ab4-af76-45c4-98a9-c19a5c008532.0" configVersion="97364adbe56bde4eab6e15bcd30cc10200000000"/>
-		<Metadata name="Configuration.Конфигурация" id="033f92d5-2388-47de-9d21-0f61ad85fea3" configVersion="6a8f29c205b75b48b31034978cd1ddb300000000"/>
+		<Metadata name="Configuration.Конфигурация" id="033f92d5-2388-47de-9d21-0f61ad85fea3" configVersion="79e73d5b53f2c341bc58acfb1a3368e200000000"/>
+		<Metadata name="DataProcessor.ИнтеграцияСВнешнимAPI" id="ae713531-0d4a-4f1b-801c-e0f5b0124d3b" configVersion="1089d7ea6a994149ab0a39ce33cb3a5f00000000"/>
+		<Metadata name="DataProcessor.ИнтеграцияСВнешнимAPI.Form.Форма" id="1401aa60-949a-4952-bf91-b99a3f0732f3" configVersion="3ca50d32a7bddb4982404946cd50f11000000000"/>
+		<Metadata name="DataProcessor.ИнтеграцияСВнешнимAPI.Form.Форма.Form" id="1401aa60-949a-4952-bf91-b99a3f0732f3.0" configVersion="55bce259346e804ca02321ae7b4e275900000000"/>
 		<Metadata name="Document.ПоступлениеТоваров" id="afee2604-5769-4c34-ab5f-8676106dfad2" configVersion="c1456dadd7dd32489dd0f4a344ebdb1100000000">
 			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Цена" id="30081779-d971-4061-8e7e-e49653a6b166"/>
 			<Metadata name="Document.ПоступлениеТоваров.Attribute.Комментарий" id="3538563e-8a30-478f-a7bb-ad74d4ad464c"/>
