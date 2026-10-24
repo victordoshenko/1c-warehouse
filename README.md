@@ -116,7 +116,9 @@
 <img width="788" height="511" alt="image" src="https://github.com/user-attachments/assets/2039721e-df02-49ed-a7cd-de9c9c635d15" />
 <img width="1651" height="494" alt="image" src="https://github.com/user-attachments/assets/fcabac40-58ae-4fb5-aada-0f490ae6fbc4" />
 <img width="557" height="373" alt="image" src="https://github.com/user-attachments/assets/88b76a37-a66a-4cd4-9165-2c30412b75dc" />
+
 ### Проект 2
+<img width="757" height="1030" alt="image" src="https://github.com/user-attachments/assets/2fd7c842-ac58-483f-a14d-2981e915ca7d" />
 
 ---
 
