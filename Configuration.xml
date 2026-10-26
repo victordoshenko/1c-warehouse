@@ -264,6 +264,7 @@
 			<Enum>ТипыНоменклатуры</Enum>
 			<Report>ОстаткиТоваров</Report>
 			<DataProcessor>ИнтеграцияСВнешнимAPI</DataProcessor>
+			<DataProcessor>НаполнениеТестовымиДанными</DataProcessor>
 			<AccumulationRegister>ОстаткиТоваров</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
