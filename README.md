@@ -219,15 +219,11 @@
 <img width="557" height="373" alt="Настройки СКД" src="https://github.com/user-attachments/assets/88b76a37-a66a-4cd4-9165-2c30412b75dc" />
 
 ### Проект 2
-<!-- Замените ссылки на свои скриншоты -->
-<img width="800" alt="Форма интеграции" src="ВСТАВЬТЕ_ССЫЛКУ_НА_СКРИНШОТ_ФОРМЫ" />
-<img width="800" alt="Успешный ответ" src="ВСТАВЬТЕ_ССЫЛКУ_НА_СКРИНШОТ_УСПЕШНОГО_ОТВЕТА" />
-<img width="800" alt="Ошибка сети" src="ВСТАВЬТЕ_ССЫЛКУ_НА_СКРИНШОТ_ОШИБКИ" />
+<img width="757" height="1030" alt="image" src="https://github.com/user-attachments/assets/2fd7c842-ac58-483f-a14d-2981e915ca7d" />
 
 ### Проект 3
-<!-- Замените ссылки на свои скриншоты -->
-<img width="800" alt="Плохой запрос — 13 секунд" src="ВСТАВЬТЕ_ССЫЛКУ_НА_СКРИНШОТ_ПЛОХОГО_ЗАПРОСА" />
-<img width="800" alt="Хороший запрос — 3.5 секунды" src="ВСТАВЬТЕ_ССЫЛКУ_НА_СКРИНШОТ_ХОРОШЕГО_ЗАПРОСА" />
+<img width="1107" height="1032" alt="image" src="https://github.com/user-attachments/assets/4ac84045-fc00-4bd5-a5ba-8a6af2abdd50" />
+<img width="1037" height="1029" alt="image" src="https://github.com/user-attachments/assets/30d678cc-f082-4d90-8f3b-9acf21a04c31" />
 
 ---
 
